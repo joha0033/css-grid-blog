@@ -40,19 +40,19 @@ How-to
 1. Basic overview of the project
 1. Review of basic layout techniques
 
-## CSS Grid
+### CSS Grid
 
 1. Description of CSS Grid
 1. Advantages CSS Grid
 1. Adding CSS Grid to a layout
 
-## CSS Grid Properties
+### CSS Grid Properties
 
 1. Description of grid-template, grid-auto, grid-gap, 
 1. Description of ____-start and ___-end
 1. Adding properties to your CSS file
 
-## CSS Grid functions and data types
+### CSS Grid functions and data types
 
 1. Advantages of using CSS functions
 1. Adding new data type for dynamic layouts

@@ -1,3 +1,67 @@
+# React Hooks - A deeper dive featuring `useContext` and `useReducer`
+
+## Audience
+
+This is an beginner-level tutorial for Frontend developers that have a basic understanding of-
+
+1. CSS concepts
+1. Popular sectioning concepts with CSS
+1. Basic CSS Grid concepts
+
+>  If you're brand new to CSS Grid, check out the [MDN CSS Grid Layout page](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout).
+
+## Objectives
+
+By the end of this tutorial, you should be able to:
+
+1. Explain what CSS Grid is capable of
+1. Implement CSS Grid for basic page layout
+1. Identify popular CSS Grid properties 
+1. Describe popular CSS Grid functions and data types
+
+## Narrative
+
+<!-- *What's the common thread throughout the post?*  -->
+
+Simplifying Page layout by implementing CSS Grid.
+
+## Article Type
+
+<!-- *How-to, high-level narrative, list post?*  -->
+
+How-to
+
+## Outline
+
+### Intro
+
+### Project Overview
+
+1. Basic overview of the project
+1. Review of basic layout techniques
+
+## CSS Grid
+
+1. Description of CSS Grid
+1. Advantages CSS Grid
+1. Adding CSS Grid to a layout
+
+## CSS Grid Properties
+
+1. Description of grid-template, grid-auto, grid-gap, 
+1. Description of ____-start and ___-end
+1. Adding properties to your CSS file
+
+## CSS Grid functions and data types
+
+1. Advantages of using CSS functions
+1. Adding new data type for dynamic layouts
+
+
+### Conclusion
+
+------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

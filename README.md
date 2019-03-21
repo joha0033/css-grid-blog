@@ -1,4 +1,4 @@
-# React Hooks - A deeper dive featuring `useContext` and `useReducer`
+# CSS Grid - The Basics
 
 ## Audience
 
